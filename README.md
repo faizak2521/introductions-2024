@@ -25,8 +25,7 @@ I customized it with my own content.
 ---
 
 ## 🚀 View the Site
-- Open `index.html` locally, or
-- (Optional) Live link once deployed: _add your URL here_
+- Link: (https://faizak2521.github.io/introductions-2024/)
 
 ---
 
