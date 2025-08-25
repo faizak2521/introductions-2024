@@ -1,5 +1,41 @@
-# Introductions (2025)
-Author Name: Faiza Khan
-Application Name: Intro Website
-Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website, and I will add my personal information.
+# 🌐 Intro Website
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Made with](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)
+![Deployed with](https://img.shields.io/badge/Deployed%20with-GitHub%20Pages-000000?logo=github)
+
+Welcome to my **Introductions Website** project! This simple HTML/CSS page introduces who I am, my studies, and my interests.
+
+---
+
+## 👩‍💻 Author
+- **Name:** Faiza Khan
+
+---
+
+## 📚 Application Details
+- **Application Name:** Intro Website  
+- **Purpose:** A personal “About Me” site showcasing background, reasons for pursuing Computer Science, and a few fun facts.
+
+---
+
+## 🙌 Credits
+This repository was originally created by **Eric Pogue** and **ChatGPT** as a template for an “Introductions” website.  
+I customized it with my own content.
+
+---
+
+## 🚀 View the Site
+- Open `index.html` locally, or
+- (Optional) Live link once deployed: _add your URL here_
+
+---
+
+## 🧰 Tech
+- HTML
+- CSS
+
+---
+
+## 🗒️ Notes
+This is a starting point and will be expanded with more styling and interactivity as I continue learning.
