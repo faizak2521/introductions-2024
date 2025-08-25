@@ -3,7 +3,7 @@
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)
 ![Deployed with](https://img.shields.io/badge/Deployed%20with-GitHub%20Pages-000000?logo=github)
 
-Welcome to my **Introductions Website** project! This simple HTML/CSS page introduces who I am, my studies, and my interests.
+Welcome to my **Introductions Website** project! This simple HTML/CSS page introduces myself, my studies, and my interests.
 
 ---
 
@@ -26,10 +26,3 @@ I customized it with my own content.
 
 ## 🚀 View the Site
 - Link: (https://faizak2521.github.io/introductions-2024/)
-
----
-
-## 🧰 Tech
-- HTML
-- CSS
-
