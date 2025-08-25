@@ -33,7 +33,3 @@ I customized it with my own content.
 - HTML
 - CSS
 
----
-
-## 🗒️ Notes
-This is a starting point and will be expanded with more styling and interactivity as I continue learning.
