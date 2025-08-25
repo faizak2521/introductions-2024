@@ -1,6 +1,5 @@
 # 🌐 Intro Website
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)
 ![Deployed with](https://img.shields.io/badge/Deployed%20with-GitHub%20Pages-000000?logo=github)
 
